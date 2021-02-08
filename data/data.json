@@ -1,0 +1,84 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "asal": " Soekarno-hatta",
+        "tujuan": "Sultan Iskandarmuda",
+        "harga": "2000000",
+        "totalpajak": "120000",
+        "totalHargaTiket": "2120000"
+    },
+    {
+        "maskapai": "Citilink",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BJT)",
+        "harga": "89000",
+        "totalpajak": 120000,
+        "totalHargaTiket": 209000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "NgurahRai (DPS)",
+        "harga": "1500000",
+        "totalpajak": 130000,
+        "totalHargaTiket": 1630000
+    },
+    {
+        "maskapai": "Lion Air",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Hasanudin (UPG)",
+        "harga": "1800000",
+        "totalpajak": 100000,
+        "totalHargaTiket": 1900000
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "asal": "Abdul RachamanSaleh (MLG)",
+        "tujuan": "NgurahRai (DPS)",
+        "harga": "1000000",
+        "totalpajak": 120000,
+        "totalHargaTiket": 1120000
+    },
+    {
+        "maskapai": "Susi Air",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Inanwatan (INX)",
+        "pajakAsal": 30000,
+        "pajakTujuan": 90000,
+        "harga": "20000",
+        "totalpajak": 120000,
+        "totalHargaTiket": 140000
+    },
+    {
+        "maskapai": "Batik air",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "NgurahRai (DPS)",
+        "harga": "89000",
+        "totalpajak": 130000,
+        "totalHargaTiket": 219000
+    },
+    {
+        "maskapai": "Garuda air",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "NgurahRai (DPS)",
+        "harga": "1000000",
+        "totalpajak": 130000,
+        "totalHargaTiket": 1130000
+    },
+    {
+        "maskapai": "Adam air",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BJT)",
+        "harga": "2000000",
+        "totalpajak": 120000,
+        "totalHargaTiket": 2120000
+    },
+    {
+        "maskapai": "Batik",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "NgurahRai (DPS)",
+        "harga": "89000",
+        "totalpajak": 130000,
+        "totalHargaTiket": 219000
+    }
+]
